@@ -1,2 +1,2 @@
 **Requirments**  
-Install Netcord NuGet: ```dotnet add package NetCord --prerelease```
+Add NetCord NuGet to the project: ```dotnet add package NetCord --prerelease```
